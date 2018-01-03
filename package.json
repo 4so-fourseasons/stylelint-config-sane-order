@@ -1,0 +1,37 @@
+{
+  "name": "@4so-fourseasons/stylelint-config-sane-order",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "description": "Standard stylelint configuration with sane order",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/4so-fourseasons/stylelint-config-sane-order"
+  },
+  "keywords": [
+    "stylelint",
+    "order",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/4so-fourseasons/stylelint-config-sane-order/issues"
+  },
+  "scripts": {},
+  "license": "MIT",
+  "private": false,
+  "author": {
+    "name": "Theo Salzmann",
+    "email": "dev@on3iro.de"
+  },
+  "contributors": [],
+  "homepage": "https://www.4so.de",
+  "engines": {},
+  "dependencies": {
+    "stylelint": "^8.0.0",
+    "stylelint-config-standard": "^18.0.0",
+    "stylelint-order": "^0.8.0"
+  },
+  "devDependencies": {}
+}
