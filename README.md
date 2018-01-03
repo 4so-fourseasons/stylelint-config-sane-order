@@ -1,0 +1,1 @@
+# stylelint-config-sane-order
