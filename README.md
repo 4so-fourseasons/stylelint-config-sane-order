@@ -6,7 +6,7 @@
 ## Installation
 
 ```bash
-npm i @4so-fourseasons/stylelint-config-sane-order
+npm i -D @4so-fourseasons/stylelint-config-sane-order
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ Just extend `stylelint-config-sane-order` inside your `stylelint.config.js`:
 ```js
 module.exports = {
     'extends': [
-        '@4so-fourseasons/stylelintconfig-sane-order'
+        '@4so-fourseasons/stylelint-config-sane-order'
     ],
     ...
 }
