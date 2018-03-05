@@ -25,14 +25,14 @@ const content = [].concat([
 ])
 
 const layout = []
+  .concat([ 'position' ])
+  .concat(trbl())
   .concat([
     'display',
-    'visibility',
     'float',
-    'position',
-    'z-index'
+    'z-index',
+    'visibility'
   ])
-  .concat(trbl())
 
 const flex = []
   .concat([

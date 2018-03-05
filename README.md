@@ -44,15 +44,16 @@ module.exports = {
   content: "";
 
   // Layout
-  display: block;
-  visibility: visible;
-  float: left;
   position: absolute;
-  z-index: 100;
   top: 0;
   right: 0;
   bottom: 0;
   left: 0;
+
+  display: block;
+  float: left;
+  z-index: 100;
+  visibility: visible;
 
   // Flex, when "display: flex;"
   flex-direction: row;
